@@ -17,7 +17,7 @@
 
 ## Dataset Availability
 
-This project uses the following datasets for Diabetic Retinopathy Images:
+This project uses the following datasets for Breast Cancer Mammography Images:
 
 - [CBIS-DDSM](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)
 - [Mammographic Image Analysis Society (MIAS) database v1.21](https://www.repository.cam.ac.uk/items/b6a97f0c-3b9b-40ad-8f18-3d121eef1459)
