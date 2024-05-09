@@ -1,6 +1,6 @@
 # Mammo-Light: A lightweight convolutional neural network for diagnosing breast cancer from mammography images
 
-📚 This repository contains the original implementation of ammo-Light for classifying breast cancer from mammography Images.
+📚 This repository contains the original implementation of mammo-Light for classifying breast cancer from mammography Images.
 
 
 
